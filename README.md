@@ -11,7 +11,7 @@ E.g.:
 
 ```javascript
 var util = require('util'),
-  IOBoard = require('ioboard');
+  IOBoard = require('fubarino-io');
 
 MyIO = function(path, callback) {
   // call super constructor
