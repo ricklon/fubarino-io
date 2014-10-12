@@ -1,6 +1,6 @@
 {
   "name": "fubarino-io",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "Provides a standard interface to boards capable of IO (e.g. chipKIT, Arduinos, Maestros, Raspberry Pis, etc) and their firmware",
   "main": "lib/ioboard.js",
   "repository": {
